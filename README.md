@@ -1,3 +1,11 @@
+Due to the update of CounterStrikeSharp, the namespace and implementation of the EventPlayerChat class have changed. As a result, the plugin has stopped working. I asked the author for the latest version but received no response. It seems that the plugin has been discontinued, so I'm uploading this temporarily available fixed version.
+
+
+
+
+
+The following is the original introduction content of the author
+
 ## .:[ Join Our Discord For Support ]:.
 
 <a href="https://discord.com/invite/U7AuQhu"><img src="https://discord.com/api/guilds/651838917687115806/widget.png?style=banner2"></a>
